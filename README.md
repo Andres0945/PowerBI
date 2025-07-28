@@ -36,4 +36,4 @@ Se construyó un dashboard dinámico y profesional orientado a ejecutivos, permi
 
 ## 📂 Archivos
 
-- `Udemy.pbix`
+- `PowerBIProject.pbix`
