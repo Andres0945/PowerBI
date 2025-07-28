@@ -1,39 +1,39 @@
-# 🟡 Proyecto Power BI - Análisis de Ventas Minoristas
+# 🟡 Power BI Project - Retail Sales Analysis
 
-Este proyecto fue desarrollado como parte del curso completo de Power BI de **Maven Analytics** en Udemy. Aquí se realizó el ciclo completo de un análisis de datos de negocio: desde la carga y limpieza hasta la visualización profesional.
+This project was developed as part of the comprehensive Power BI course by **Maven Analytics** on Udemy. Here, the complete cycle of business data analysis was carried out: from loading and cleaning to professional visualization.
 
-## 📌 Objetivo del proyecto
+## 📌 Project objective
 
-Analizar el rendimiento de una cadena de tiendas minoristas a través de indicadores clave, visualizaciones interactivas y segmentaciones que permiten tomar decisiones estratégicas.
+Analyze the performance of a retail chain through key indicators, interactive visualizations, and segmentations that enable strategic decision-making.
 
-## 🛠️ Herramientas y técnicas utilizadas
+## 🛠️ Tools and techniques used
 
 - **Power BI Desktop**
-- **Modelado relacional de datos**
-- **Limpieza y transformación de datos**
-- **Medidas implícitas y explícitas**
-- **DAX básico (KPIs, cálculo de márgenes, promedios, porcentajes, etc.)**
-- **Visualizaciones interactivas (slicers, filtros, tarjetas, gráficos de barras, líneas, mapas)**
+- **Relational data modeling**
+- **Data cleaning and transformation**
+- **Implicit and explicit measures**
+- **Basic DAX (KPIs, margin calculation, averages, percentages, etc.)**
+- **Interactive visualizations (slicers, filters, cards, bar charts, lines, maps)**
 
-## 🔍 Métricas principales analizadas
+## 🔍 Main metrics analyzed
 
-- Total de ventas y unidades vendidas
-- Margen de ganancia
-- Ticket promedio por cliente
-- Tendencias mensuales
-- Análisis por producto, país y canal de ventas
+- Total sales and units sold
+- Profit margin
+- Average ticket per customer
+- Monthly trends
+- Analysis by product, country, and sales channel
 
-## 📊 Visualizaciones incluidas
+## 📊 Visualizations included
 
-- Panel ejecutivo con KPIs clave
-- Tendencias de ventas mensuales
-- Distribución de ingresos por canal, producto y país
-- Análisis comparativo por categoría y subcategoría
+- Executive dashboard with key KPIs
+- Monthly sales trends
+- Revenue distribution by channel, product, and country
+- Comparative analysis by category and subcategory
 
-## 🎯 Resultados
+## 🎯 Results
 
-Se construyó un dashboard dinámico y profesional orientado a ejecutivos, permitiendo una comprensión clara del comportamiento del negocio y sus oportunidades de mejora.
+A dynamic and professional dashboard was built for executives, providing a clear understanding of business performance and opportunities for improvement.
 
-## 📂 Archivos
+## 📂 Files
 
 - `PowerBIProject.pbix`
